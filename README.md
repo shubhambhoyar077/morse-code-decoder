@@ -34,7 +34,7 @@
 
 # 📖 [Morse Code] <a name="about-project"></a>
 
-**[Morse Code]** is created using React.
+**[Morse Code]** is created using Ruby.
 
 ## 🛠 Built With <a name="built-with"></a>
 
